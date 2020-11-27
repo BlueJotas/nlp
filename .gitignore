@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.env
+**/*__pycache__
+**/*.DS_Store
+mood datamad1020.ipynb
